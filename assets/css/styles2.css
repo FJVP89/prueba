@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+body{
+    background-image: url(/testeo2/assets/img/3KJ4AFYLUZAG7DYO7IJULMZ3P4.webp);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container-formulario{
+    position: absolute;
+    width: 600px;
+    min-width: 600px;
+    max-width: 700px;
+    margin-left: 10px;
+    height: 100%; 
+}
